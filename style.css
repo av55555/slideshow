@@ -1,0 +1,100 @@
+body {
+    background-color: azure;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    text-shadow: 2px;
+    color: firebrick;
+    font-family: fantasy;
+    background-color: antiquewhite;
+}
+
+h2 {
+    font-size: 30px;
+    color: blueviolet;
+    font-family: cursive
+}
+
+#image1 {
+    height: 300px;
+    width: 350px;
+}
+
+#q {
+    font-family: fantasy;
+    font-size: 30px;
+    color: firebrick;
+    background-color: antiquewhite;
+}
+
+#about {
+    font-size: 30px;
+    color: blueviolet;
+    font-family: cursive;
+}
+
+#image2 {
+    height: 500px;
+    width: 650px;
+}
+
+.menu {
+    color: bisque;
+    font-family: cursive;
+    font-size: 45px;
+    list-style: none;
+    top: 0px;
+    cursor: pointer;
+    z-index: 10;
+    position: fixed;
+    background: white;
+    width: 100%;
+    margin-top: 0px;
+}
+
+.links {
+    float: left;
+    color: darkblue;
+    padding-bottom: 5px;
+    padding-top: 12px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: 'Playfair Display';
+    font-size: 20px;
+}
+.princesses{
+    height: 500px;
+    width: 450px;
+}
+
+.links:hover {
+    color: dodgerblue;
+}
+
+#contact {
+    background: antiquewhite;
+}
+
+.contact1 {
+    color: white;
+    text-shadow: none;
+}
+
+#contact iframe {
+    width: 100%;
+}
+h1 {
+    font-size: 50px;
+    text-shadow: 2px;
+    color: firebrick;
+    font-family: fantasy;
+    background-color: antiquewhite;
+}
+
+h2 {
+    font-size: 30px;
+    color: blueviolet;
+    font-family: cursive
+}
